@@ -6,6 +6,15 @@ This is an android application where data from the internet can be listed, added
 <p align="center">I used <a href="https://fakestoreapi.com/">Fake Store</a> API for building this application.</p>
 </p>
 
+#### App Screenshots
+
+| Onboarding Screen | Login Screen | Register Screen|
+| ![1](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Login.png) | ![2](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Login.png) | ![3](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Register.png)
+| Home | Favorite Screen | Cart Screen |
+|:-:|:-:|:-:|
+| ![4](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/HomePage.png) | ![5](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/FavoriteScreen.png) | ![6](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/CartScreen.png)
+
+
 ## Tech stack
 * ✅ MVVM with Clean Architecture
 * ✅ [Kotlin Flow][31] - In coroutines, a flow is a type that can emit multiple values sequentially, as opposed to suspend functions that return only a single value.
