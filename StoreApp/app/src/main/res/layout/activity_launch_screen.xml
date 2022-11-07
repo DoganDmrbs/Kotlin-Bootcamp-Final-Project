@@ -6,10 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".LaunchScreenActivity">
 
-    <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:src="@drawable/ic_lounch"
-        android:layout_centerInParent="true"
-        android:id="@+id/note"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:lottie_rawRes="@raw/launch_anim"
+        android:background="@color/custom_color_primary"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
 </RelativeLayout>
