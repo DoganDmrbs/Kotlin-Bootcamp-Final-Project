@@ -12,7 +12,7 @@ This is an android application where data from the internet can be listed, added
 
 | Onboarding| Login Screen | Register Screen |
 |:-:|:-:|:-:|
-| ![Fist](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Login.png) | ![2](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Login.png) | ![2](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/FavoriteScreen.png) | ![3](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Register.png)
+| ![Fist](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Onboarding.png) | ![2](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/Login.png) | ![2](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/FavoriteScreen.png) |
 | Home | Favorite Screen | Cart Screen |
 | ![4](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/HomePage.png) | ![5](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/FavoriteScreen.png) | ![3](https://github.com/DoganDmrbs/Kotlin-Bootcamp-Final-Project/blob/main/StoreApp/screenshots/cartscreen.png)
 
